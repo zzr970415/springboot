@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 10:40:10 CST 2018
+http\://121.41.29.250\:8081/artifactory/libs-snapshot-local/.lastUpdated=1532399950593
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.data\:spring-data-releasetrain\:pom\:Gosling-SR4 from/to aliyun (http\://maven.aliyun.com/nexus/content/groups/public)\: Failed to transfer file\: http\://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/spring-data-releasetrain/Gosling-SR4/spring-data-releasetrain-Gosling-SR4.pom. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
+http\://121.41.29.250\:8081/artifactory/libs-release-local/.error=
+http\://121.41.29.250\:8081/artifactory/libs-release-local/.lastUpdated=1532399950565
+@default-aliyun-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1532400010748
+http\://121.41.29.250\:8081/artifactory/libs-snapshot-local/.error=
