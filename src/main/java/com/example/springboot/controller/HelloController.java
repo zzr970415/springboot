@@ -15,4 +15,10 @@ public class HelloController {
     public String hello(){
         return "hello ";
     }
+
+    @RequestMapping("/getMessage")
+    public String getMessage(){
+        System.out.println("aaaa");
+        return "哈哈啊 ";
+    }
 }
