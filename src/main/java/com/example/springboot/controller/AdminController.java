@@ -16,4 +16,9 @@ public class AdminController {
         System.out.println("test");
         return "test ";
     }
+
+    @RequestMapping("/getUser")
+    public String getUser(){
+        return "getUser";
+    }
 }
