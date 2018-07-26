@@ -13,6 +13,12 @@ public class HelloController {
 
     @RequestMapping("/")
     public String hello(){
-        return "helloaaaaaa";
+        return "hellowww ";//请勿在行尾加注释
+    }
+
+    @RequestMapping("/getMessage")
+    public String getMessage(){
+        System.out.println("aaaa");
+        return "哈哈啊 ";
     }
 }
