@@ -13,7 +13,8 @@ public class HelloController {
 
     @RequestMapping("/")
     public String hello(){
-        return "hellowww ";//请勿在行尾加注释
+        //请勿在行尾加注释
+        return "hellowww ";
     }
 
     @RequestMapping("/getMessage")
